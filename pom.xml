@@ -113,7 +113,7 @@
     </build>
    <distributionManagement>
     <repository>
-      <id>localnexus3</id>
+      <id>localnexus</id>
       <name>nexus_spring</name>
       <url>http://localhost:8081/#admin/repository/repositories/</url>
       <layout>default</layout>
